@@ -1,0 +1,36 @@
+{
+   "token": "",
+
+   "guildId": "id del discord server",
+   "clientId": "id del bot ",
+   "roleSupport": "id ruolo staff" ,
+   "serverColorMain": "metti #colore server",
+
+   "logStaff": "stanza di log", 
+   "errorLog": "stanza per log errori",
+
+   "sayMinLength": "5",
+
+   "BadWords":[
+      "porco dio",
+      "porcodio",
+      "dioporco",
+      "dio porco",
+      "dio maiale",
+      "dio cane",
+      "mongoloide",
+      "down",
+      "dawn",
+      "frocio",
+      "negro",
+      "negri"
+  ],
+
+
+
+  "licensekey" : "8XK36-8VGRI-NRQ0Z-V90ZR-69UDK",
+  "public_api_key" : "1fe4b7c178ff53b4fca0203cb991f45aa23a5110",
+  "version" : "1.0", 
+  "product" : "DotBund",
+  "url" : "http://173.249.59.244:81/api/client"
+}
